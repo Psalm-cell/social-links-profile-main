@@ -68,5 +68,3 @@ I used Visual Studio code Copilot to get some more concepts on hovering and fixi
 ## Acknowledgments
 
 I give thanks to Almighty God for giving me intellect and the capacity to build this project and i know greater projects than this he would help me build. I am grateful to frontend mentor for making such challenge available for newbie like and I am happy I did not relent on this project because I have some uncompleted project.
-
-`
